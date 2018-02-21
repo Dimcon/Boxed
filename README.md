@@ -1,5 +1,5 @@
 # Boxed
-## This is it. CyberMelon's debut market entry game.
+##
 #### For those of you new to LibGDX, just a few things...
 > - Images, graphics, fonts, resources.. All of it goes into the [Assets](../android/assets) folder
 > - Default android profile should be setup automatically. If not, contact DaimonSewell@gmail.com
