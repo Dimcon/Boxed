@@ -2,7 +2,7 @@
 ##
 #### For those of you new to LibGDX, just a few things...
 > - Images, graphics, fonts, resources.. All of it goes into the [Assets](../android/assets) folder
-> - Default android profile should be setup automatically. If not, contact DaimonSewell@gmail.com
+> - Default android profile should be setup automatically.
 
 #### To set up a Desktop profile (to run the LibGDX application on Desktop) do this:
 > Run > Edit Configurations
